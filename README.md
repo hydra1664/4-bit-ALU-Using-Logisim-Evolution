@@ -71,14 +71,20 @@ The ALU was tested with different input combinations:
 ## Simulation Results
 Figures below show the ALU’s behavior for each operation.  
 
-- ![ADD Operation](images/add.png)<img width="1920" height="1079" alt="ADD" src="https://github.com/user-attachments/assets/69989e43-9512-4572-840c-8308b8646c36" />
+- ADD Operation <img width="1920" height="1079" alt="ADD" src="https://github.com/user-attachments/assets/69989e43-9512-4572-840c-8308b8646c36" />
 
-- ![SUB Operation](images/sub.png)  
-- ![SUB Operation (Negative)](images/sub_negative.png)  
-- ![AND Operation](images/and.png)  
-- ![OR Operation](images/or.png)  
-- ![XOR Operation](images/xor.png)  
-- ![NOT(A) Operation](images/not.png)  
+- SUB Operation <img width="1920" height="1079" alt="SUB" src="https://github.com/user-attachments/assets/8dccc83d-9e99-42ad-a453-ff5501d8b994" />
+
+- SUB Operation (Negative) <img width="1920" height="1079" alt="SUB (negative)" src="https://github.com/user-attachments/assets/b72687f7-7e84-484c-afb3-3fb11ea5b68f" />
+ 
+- AND Operation <img width="1920" height="1079" alt="AND" src="https://github.com/user-attachments/assets/f385421d-58da-4000-82cc-652fa66710d9" />
+
+- OR Operation <img width="1920" height="1079" alt="OR" src="https://github.com/user-attachments/assets/8dde14a8-7dc3-4942-b4e6-8d933f8b75c0" />
+
+- XOR Operation <img width="1920" height="1079" alt="XOR" src="https://github.com/user-attachments/assets/75bfdf99-ecaf-410f-bc5b-29200e39ab90" />
+
+- NOT (A) Operation <img width="1920" height="1079" alt="NOT(A)" src="https://github.com/user-attachments/assets/6e3a0903-7635-4c7a-a3fa-3f67dcd8cfd8" />
+
 
 (Screenshots are stored in the /images/ folder of this repository.)
 
